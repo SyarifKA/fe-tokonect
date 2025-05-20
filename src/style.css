@@ -1,13 +1,7 @@
-/* @import "tailwindcss"; */
-/* Tailwind CSS directives removed. Use the compiled CSS output instead. */
-/* @import "tailwindcss/preflight"; */
+@import "tailwindcss";
 
-@import "tailwindcss/preflight";
-@import "tailwindcss/utilities";
-
-/* @tailwind base;
-@tailwind components;
-@tailwind utilities; */
+/* @import "tailwindcss/preflight";
+@import "tailwindcss/utilities"; */
 
 
 @font-face {
@@ -19,4 +13,5 @@
 
 body {
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  background-color: #E2E4EB;
 }
