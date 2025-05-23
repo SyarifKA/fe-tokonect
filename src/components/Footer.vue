@@ -88,7 +88,7 @@
         </div>
         <div class="flex pt-8 border-[#757575] border-t mt-16 justify-between">
             <div>
-                <span class="text-[#757575]">© 2024 <span class="text-black">Shawonetc3</span> . All Rights Reserved</span>
+                <span class="text-[#757575]">© 2025 <span class="text-black">Shawonetc3</span> . All Rights Reserved</span>
             </div>
             <div class="flex gap-4">
                 <img src="../assets/img/klarna.png" alt="">

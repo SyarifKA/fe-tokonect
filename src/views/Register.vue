@@ -12,8 +12,8 @@ import Footer from '../components/Footer.vue'
             </div>
             <div class="w-1/2 gap-4 flex px-8 flex-col">
                 <div class="flex flex-col w-full">
-                    <span class="text-[#1ABA1A] font-medium">REGISTER</span>
-                    <span class="text-sm text-[#999999]"> JOIN TO US</span>
+                    <span class="text-[#1ABA1A] text-3xl font-medium">REGISTER</span>
+                    <span class="text-xs text-[#999999]"> JOIN TO US</span>
                 </div>
                 <form action="" class="w-full flex flex-col gap-4">
                     <div class="flex flex-col gap-2 text-sm">
@@ -35,9 +35,9 @@ import Footer from '../components/Footer.vue'
                     <div class="text-sm">
                         <button type="submit" class="text-white bg-[#1ABA1A] px-4 py-2 rounded-lg">REGISTER</button>
                     </div>
-                    <div class="flex">
-                        <span class="text-[#999]">already user ?</span>
-                        <button class="text-[#1ABA1A]"> Login</button>
+                    <div class="flex text-xs">
+                        <span class="text-[#999]">ALREADY USER ?</span>
+                        <button class="text-[#1ABA1A]"> LOGIN</button>
                     </div>
                 </form>
             </div>
